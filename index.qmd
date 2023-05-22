@@ -1,0 +1,19 @@
+---
+title: "Dr. Hayley E. L. Stagg"
+about: 
+  template: jolla
+  image: Images/Me.jpeg
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hayley-stagg-713b6082/
+    - icon: instagram
+      text: Instagram
+      href: www.instagram.com/hayels_12
+    - icon: envelope
+      text: Email
+      href: mailto:hayley@stagg.phd
+---
+
+Senior Information Analyst, North East Ambulance Service
+
