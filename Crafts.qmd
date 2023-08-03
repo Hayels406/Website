@@ -90,14 +90,14 @@ For Christmas he got the lion from the same set of crocheted jungle animals. Lau
 :::
 
 ::: {.column width="40%"}
-![Ester the Elephant](Images/Crafts/Laurence-1.jpeg)
+![Laurence the Lion](Images/Crafts/Laurence-1.jpeg)
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![Ester the Elephant](Images/Crafts/Laurence-2.jpeg)
+![Laurence the Lion](Images/Crafts/Laurence-2.jpeg)
 :::
 
 ::: {.column width="5%"}

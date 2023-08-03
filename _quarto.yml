@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "Website"
+  title: "Hayley"
+  site-url: https://hayley.stagg.phd
   navbar:
     title: false
     left:
@@ -10,6 +11,8 @@ website:
         text: Home
       - Publications.qmd
       - Crafts.qmd
+      - href: cv.pdf
+        text: CV
 
 format:
   html:
