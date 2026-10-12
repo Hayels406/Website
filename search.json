@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Hayley E. L. Stagg",
+    "section": "",
+    "text": "Senior Information Analyst, North East Ambulance Service"
+  },
+  {
     "objectID": "Crafts.html",
     "href": "Crafts.html",
     "title": "Crafts",
@@ -35,11 +49,18 @@
     "text": "Paw Print Blanket\nMy sister-in-law wanted a “chunky blanket with pompoms” for her baby due in October 2023. I found a pattern for this paw print blanket on Etsy and make her baby a massive blanket using chunky Trimm Velvet yarn in grey and white and a 7mm hook. The main body of the blanket is made from single crochet and the paw prints are made of bobble stitches. The pattern called for 500g of each to do 3 blocks of white and 2 blocks of grey. However, I needed much more than that. To complete 2 blocks of each colour I used 600g of both colours and ran out of grey.\nThings learnt:\n\nHow to switch colours mid-row\nHow to bobble stitch\nHow to fix a hole in a row"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dr. Hayley E. L. Stagg",
-    "section": "",
-    "text": "Senior Information Analyst, North East Ambulance Service"
+    "objectID": "Crafts.html#suggle-bean-blanket",
+    "href": "Crafts.html#suggle-bean-blanket",
+    "title": "Crafts",
+    "section": "Suggle Bean Blanket",
+    "text": "Suggle Bean Blanket\nM"
+  },
+  {
+    "objectID": "Crafts.html#baby-sleeping-bag",
+    "href": "Crafts.html#baby-sleeping-bag",
+    "title": "Crafts",
+    "section": "Baby Sleeping Bag",
+    "text": "Baby Sleeping Bag\nTime to make something for our own baby!\nThings learnt:\n\nAdded buttons"
   },
   {
     "objectID": "Publications.html",
@@ -47,12 +68,5 @@
     "title": "Publications",
     "section": "",
     "text": "Published Papers\n\nRural versus urban out-of-hospital cardiac arrest response, treatment and outcomes in the North East of England from 2018 to 2019\nOwen Finney and Hayley Stagg\nSeptember 2023\nBritish Paramedic Journal, Volume 8, Number 2, 1 Sept 2023, pp 29-37(9)\nhttps://doi.org/10.29045/14784726.2023.9.8.2.29\n\n\nThe clinical effectiveness of a falls rapid response service, and sex differences of patients using the service: a cross-sectional study in an English ambulance trust\nKarl Charlton, Hayley Stagg and Emma Burrow\nJune 2023\nBritish Paramedic Journal, Volume 8, Number 1, 1 June 2023, pp. 28-33(6)\nhttps://doi.org/10.29045/14784726.2023.6.8.1.28\n\n\nPrognostic value of lactate in out-of-hospital cardiac arrest: a prospective cohort study\nKarl Charlton and Hayley Stagg\nApril 2022\nJournal of Paramedic Practice 14(4):138-145\nhttp://dx.doi.org/10.12968/jpar.2022.14.4.138\n\n\nPredicting conveyance to the emergency department for older adults who fall\nKarl Charlton, Hayley Stagg and Emma Burrow\nApril 2022\nJournal of Paramedic Practice 14(4):162-168\nhttp://dx.doi.org/10.12968/jpar.2022.14.4.162\n\n\nIncidence of emergency calls and out-of-hospital cardiac arrest deaths during the COVID-19 pandemic: findings from a cross-sectional study in a UK ambulance service\nKarl Charlton, Matthew Limmer and Hayley Moore\nApril 2021\nEmergency Medicine Journal 38(6):emermed-2020-210291\nhttp://dx.doi.org/10.1136/emermed-2020-210291\n\n\nIntravenous versus oral paracetamol in a UK ambulance service: a case control study\nKarl Charlton, Matthew Limmer and Hayley Moore\nMay 2020\nBritish Paramedic Journal 5(1):1-6\nhttp://dx.doi.org/10.29045/14784726.2020.06.5.1.1"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
